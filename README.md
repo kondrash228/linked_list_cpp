@@ -1,0 +1,1 @@
+# this linked list is written with the help of the [article](https://habr.com/ru/sandbox/153128/)
